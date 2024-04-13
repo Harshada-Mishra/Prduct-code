@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: grid;
+    grid-template-columns: auto auto ;
+   padding-left: 90px;
+   padding-top: 70px;
+    /* width: 100%;
+    margin-left: auto; */
+}
+.img1{
+    width: 100%;
+    /* height: 350px; */
+    
+}
+
+.card1{
+    width: 350px;
+    border: 1px solid gainsboro;
+    border-radius: 2px;
+} 
+
+
+.card2{
+}
