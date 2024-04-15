@@ -9,11 +9,13 @@
     background-color: aliceblue;
     padding-top: 20px;
     padding-left: 20px;
+    place-items: center;
 }
 .first{
     text-align: center;
 }
 img{
-    width: 150px;
-    height: 100px;
+    width: 170px;
+    height: 60px;
+    /* margin-top: 30px; */
 }
