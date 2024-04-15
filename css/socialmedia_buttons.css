@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.first{
+    text-align: center;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
